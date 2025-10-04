@@ -25,7 +25,7 @@
 
 ## 🌐 Socials:
 
-<div align="center">
+<div align="center" display="flex">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-tyagi-71a899361/)
 
