@@ -16,10 +16,9 @@
 
 - 🎓 Full Stack Web Developer in the making  
 - 💻 Currently learning **JavaScript**, **React**, and **Backend Development**  
-- 🚀 Building real-world projects like **Swiggy Clone**, **Apple Navbar UI**, and more  
+- 🚀 Building real-world projects like **Swiggy Clone**, **Amazon UI**, and more  
 - 🌱 Focused on mastering **Frontend → Backend → Deployment**  
 - 💡 Passionate about creating beautiful, scalable, and high-performance web apps  
-- 📈 On a mission to reach ₹1 Crore by 2043 through consistent growth 💰  
 - ✨ Loves clean UI, animations, and modern web design  
 
 <br>
@@ -28,10 +27,9 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surya-tyagi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/surya-tyagi-71a899361/))](https://linkedin.com/)
+[![GitHub](https://github.com/SsuryaTyagi)](https://github.com/surya-tyagi)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://portfolio-two-sepia-72.vercel.app/))](https://your-portfolio-link.com)
 
 </div>
 
