@@ -27,9 +27,9 @@
 
 <div align="center">
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/surya-tyagi-71a899361/))](https://linkedin.com/)
-[![GitHub](https://github.com/SsuryaTyagi)](https://github.com/surya-tyagi)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://portfolio-two-sepia-72.vercel.app/))](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/surya-tyagi-71a899361/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/surya-tyagi](https://github.com/SsuryaTyagi))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://github.com/SsuryaTyagi/portfolio))
 
 </div>
 
