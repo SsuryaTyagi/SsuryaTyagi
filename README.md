@@ -27,9 +27,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/surya-tyagi-71a899361/))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/surya-tyagi](https://github.com/SsuryaTyagi))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio-link.com](https://github.com/SsuryaTyagi/portfolio))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-tyagi-71a899361/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/surya-tyagi)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/surya-tyagi/portfolio)
+
 
 </div>
 
@@ -69,9 +72,9 @@
 
 ### 📊 GitHub Stats  
 
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-tyagi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-tyagi&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=surya-tyagi&theme=tokyonight)
+![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsuryaTyagi&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SsuryaTyagi&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SsuryaTyagi&theme=tokyonight)
 
 </div>
 
@@ -79,8 +82,8 @@
 
 ## 🏗️ Featured Projects  
 
-🚀 [Swiggy Clone](https://github.com/surya-tyagi/swiggy-clone) – Real restaurant UI built in React + Tailwind CSS  
-🍏 [Apple Navbar UI](https://github.com/surya-tyagi/apple-navbar) – Apple-style navbar with animation effects  
+🚀 [Swiggy Clone](swiggy-f.onrender.com) – Real restaurant UI built in javaScript + React + Tailwind CSS  
+🍏 [Aamzon UI](ssuryatyagi.github.io/amazone_cloner/)- HTML + CSS
 🎬 [Video Player App](https://github.com/surya-tyagi/video-player-react) – Modern player with autoplay & transitions  
 
 <br>
